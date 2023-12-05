@@ -1,4 +1,4 @@
-### Systemu monitorujący ruch sieciowy
+### System monitorujący ruch sieciowy
 #  Technologia
 
   **Wireshark** to narzędzie analizy sieciowej o otwartym kodzie źródłowym, które umożliwia przechwytywanie i analizę ruchu sieciowego w czasie rzeczywistym. Jest dostępny na różne platformy, takie jak Windows, macOS i Linux.
