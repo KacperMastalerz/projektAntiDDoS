@@ -6,3 +6,10 @@
 ![zdjecie](https://upload.wikimedia.org/wikipedia/commons/c/cf/Wireshark_3.6_screenshot.png)
 
   **Wireshark** może pomóc w identyfikacji źródła ataku DDoS, analizie ruchu sieciowego i wykrywaniu anomalii w ruchu sieciowym. Narzędzie to może pomóc w zrozumieniu, jakie typy ruchu sieciowego są generowane przez atakującego, co może pomóc w opracowaniu strategii obrony przed atakami DDoS.
+
+# Instalacja Wiresharka Na Platformie Windows
+1. Pobierz instalator: Przejdź na oficjalną stronę Wiresharka (https: §www.wireshark.org) i pobierz instalator dla systemu Windows.
+2. Uruchom instalator: Po pobraniu pliku instalacyjnego, uruchom go, aby rozpocząć proces instalacji.
+3. Wybierz komponenty: Podczas instalacji możesz wybrać, które komponenty chcesz zainstalować. Wireshark zawiera również narzędzia wiersza poleceń, które warto zaznaczyć.
+4. Kontynuuj instalację: Postępuj zgodnie z instrukcjami na ekranie, akceptując warunki licencji i wybierając lokalizację instalacji.
+5. Zakończ instalację: Po zakończeniu instalacji Wiresharka możesz uruchomić program i rozpocząć analizę sieciową.
