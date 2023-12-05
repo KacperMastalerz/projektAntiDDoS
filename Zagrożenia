@@ -1,3 +1,12 @@
+# 15 Inteligentnych zagrożen dla systemu
+
 Modyfikacja reguł połączeń internetowych dopuszczenie nieuatyrozwanych urzadzen 
 
-Antiddos wysyłający informacje do siemia co moze spowodowac przeciazenie i crash siema zarzucenie siema falszywymi informacjami
+
+Antiddos wysyłający informacje do siemia co moze spowodowac przeciazenie i crash siema zarzucenie siema falszywymi informacjami 
+
+Awaria systemu antiddos moze sparalizowac funkcjonowanie całej sieci milnet
+
+Przejęcie systemu może prowadzić do wysyłania nieautoryzowanych poleceń do urządzeń brzegowych
+
+AntyDDoS moze spowodowac przeciazenie SIEMu falszywymi alertami,
